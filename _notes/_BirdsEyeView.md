@@ -1,3 +1,7 @@
+---
+title: Birds Eye View
+---
+
 People
 
 - Nadia Eghbal

@@ -1,3 +1,7 @@
+---
+title: Pataphysics
+---
+
 20200826224656
 
 ## Pataphysics

@@ -8,7 +8,7 @@ image: /assets/image.jpg
 Hello! Welcome to my digital garden. This is an experiment. I'm actually going to try growing two gardens here:
 
 One, generally, [about thinking, writing, reading, and living](/_BirdsEyeView){: .internal-link}
-A second, about my research
+A second, about my research (_coming soon_)
 
 ### Link syntax
 
