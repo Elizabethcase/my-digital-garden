@@ -10,6 +10,8 @@ Hello! Welcome to my digital garden. This is an experiment. I'm actually going t
 One, generally, [about thinking, writing, reading, and living](/_BirdsEyeView){: .internal-link}
 A second, about my research (_coming soon_)
 
+test [pataphysics](/pataphysics){: .internal-link}
+
 ### Link syntax
 
 To link to another note, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
