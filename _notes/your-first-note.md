@@ -5,7 +5,10 @@ image: /assets/image.jpg
 
 ### Welcome!
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
+Hello! Welcome to my digital garden. This is an experiment. I'm actually going to try growing two gardens here:
+
+One, generally, [about thinking, writing, reading, and living](/_BirdsEyeView){: .internal-link}
+A second, about my research
 
 ### Link syntax
 
