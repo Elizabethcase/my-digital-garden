@@ -4,7 +4,7 @@ title: Ever-evolving link list
 
 People, art, stories, etc that I've found interesting, compelling, engaging and/or brilliant. Changes often & updated with new categories frequently
 
-Currently recommending -- [The Japanese Citrus candle from Brooklyn Candle Co](https://brooklyncandlestudio.com/collections/bestsellers/products/japanese-citrus-minimalist-candle). If I could smell this all the for the rest of forever, I would.
+Currently recommending -- [The Japanese Citrus candle from Brooklyn Candle Co](https://brooklyncandlestudio.com/collections/bestsellers/products/japanese-citrus-minimalist-candle). If I could smell this all the time for the rest of forever, I would.
 
 ### Newsletters
 

@@ -1,11 +1,7 @@
 ---
 title: Birds Eye View
 ---
-
-## People
-
-
 ## Concepts
 
 
-## 
+## People
