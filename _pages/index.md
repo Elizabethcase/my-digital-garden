@@ -7,16 +7,14 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first seed]]</span> to get started on your exploration.
-</p>
+Hello! So happy you've found your way to this experiment. I'm [Elizabeth Case](/about){: .internal-link}. This digital garden follows the roots of many others following many others [1]() [2]().  I'm initially trying to grow two gardens:
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+One, generally, [about thinking, writing, reading, and living](../_notes/birdseyeview){: .internal-link}
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+A second, about my research (_coming soon_)
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+I'm mostly using this as a way to deposit notes, drafts, and thoughts that could use a conversation to deepen or expand. I'm thinking of this garden as a generative writing tool, a memory bank, and different mode of connecting research topics together. Please reach out to me if you'd like to chat about anything on here -- I'm on twitter at [elizabeth_case](www.twitter.com/elizabeth_case).
+
+For some art/people/newsletters/links I love, check out my ever-evolving [link list](../_notes/linklist)
+
+If you'd like to start your own, this garden is mostly the work of [Maxime Vaillancourt] and he wrote a [great guide for how to set one up](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
