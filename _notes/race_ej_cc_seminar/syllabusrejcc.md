@@ -4,7 +4,7 @@ title: Race, Environmental Justice, and Climate Change Syllabus
 
 This class was created by a group* of Earth and Environmental PhD students at Columbia University/the Lamont-Doherty Earth Observatory in Summer 2020.
 
-\*Kailani Acosta, Lauren Moseley, Roger Creel, Anna Barth, Clara Chang, and me
+\*Kailani Acosta, Lauren Moseley, Roger Creel, Anna Barth, Clara Chang, and me, with help & input from Mingfang Ting, Maya Tolstoy, Cynthia Thomson, Adam Sobol, and Ben Orlove
 
 _Note: if you need access to any of these readings, email or tweet me (see [about](/about){: .internal-link} for contact info)_
 
