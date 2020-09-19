@@ -1,10 +1,12 @@
 ---
-title: Ever-evolving link list
+title: Ever-evolving recommendation list
 ---
 
 People, art, stories, etc that I've found compelling, engaging and/or brilliant. Changes often & updated with new categories frequently
 
 Currently recommending -- [The Japanese Citrus candle from Brooklyn Candle Co](https://brooklyncandlestudio.com/collections/bestsellers/products/japanese-citrus-minimalist-candle). If I could smell this all the time for the rest of forever, I would.
+
+If you're looking for more transient impressions, here's [a list of links I've been clicking](/lookedattoday.md){: .internal-}, logged on the daily-ish
 
 ### Newsletters
 
