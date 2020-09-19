@@ -2,12 +2,12 @@
 title: An overview of Digital Gardens
 ---
 
-Digital gardens are a overarching term for sites that take advantage of digital spaces to link thoughts and generate ideas. In most gardens, notes are well-pruned (i.e. thought through, edited, synthesized) and growing with others (always linked to other notes). 
+Digital gardens are a overarching term for sites that take advantage of digital spaces to link thoughts and generate ideas. Chunked notes are individual plants, plants are seeded in beds (categories), and the sunlight that provides energy for growth is the [public eye](https://www.swyx.io/writing/learn-in-public/). In most gardens, notes are well-pruned (i.e. thought through, edited, synthesized) and growing with others (always linked to other notes). I like how Maggie Appleton puts it – some notes are seedlings (drafts, sketches, ideas), some budding (connection, synthesis, expansion), and some full-grown and evergreen (thought out, edited, reference).
 
 Some key (technical) features of digital gardens:
 
-+ **Forward linking** are common hyperlinks you might see on any site, and they can refer out to other webpages, or to internal documents.
-+ **Backward linking**, which you can see on the right, show the internal notes that link back to this page. This allows for exploration between ideas that may not be immediately apparent.
++ **Forward links** are common hyperlinks you might see on any site, and they can refer out to other webpages, or to internal documents.
++ **Backward links**, which you can see on the right, show the internal notes that link back to this page. This allows for exploration between ideas that may not be immediately apparent. See a [short history on bi-directional links](https://maggieappleton.com/bidirectionals).
 + **Mind maps** scroll down, and you can see a map of all the notes and how they link to each other. Some areas are their own islands; some have many links, some very view. Helpful for visualizing connections and adjacency.
 
 Other features I like to include that lean into the digital garden metaphor
