@@ -2,7 +2,7 @@
 title: Race, Environmental Justice, and Climate Change Syllabus
 ---
 
-This class was created by a group* of Earth and Environmental PhD students at Columbia University/the Lamont-Doherty Earth Observatory in Summer 2020. The syllabus was created by all of us, while the linked notes are salient points that I've taken from the lectures and discussions.
+This class was created by a group* of Earth and Environmental PhD students at Columbia University/the Lamont-Doherty Earth Observatory in Summer 2020. The syllabus was created by all of us, while the linked notes are salient points that I've taken from the lectures, readings, and discussions; they may or may not be edited. An experiment in learning.
 
 \*Kailani Acosta, Lauren Moseley, Roger Creel, Anna Barth, Clara Chang, and me, with input from Mingfang Ting, Maya Tolstoy, Cynthia Thomson, Adam Sobol, and Ben Orlove
 
@@ -50,7 +50,7 @@ _Note: if you need access to any of these readings, email or tweet me (see [abou
 
 ### Readings
 + [Civil Rights Commission 2017](https://www.michigan.gov/mdcr/0,4613,7-138--405318--a,00.html): Michigan Civil Rights Commission report -- The Flint Water Crisis: Systemic Racism Through the Lens of Flint
-+ [Clark 2018](https://bookshop.org/books/the-poisoned-city-flint-s-water-and-the-american-urban-tragedy/9781250181619): The Poisoned City -- Flint’s water and the American Urban Tragedy 
++ [Clark 2018](https://bookshop.org/books/the-poisoned-city-flint-s-water-and-the-american-urban-tragedy/9781250181619): The Poisoned City -- Flint’s water and the American Urban Tragedy <a name="wk2ch3notes">[Chapter 3](/race_ej_cc_seminar/readingnotes/Wk2_PoisonedCityCh3){: .internal-link}</a> and Chapter 8)
 
 ### Discussion Topics and Questions
 
