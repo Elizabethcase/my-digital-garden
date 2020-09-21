@@ -5,7 +5,7 @@ title: The Poisoned City Chapter 3 Notes
 For you are not powerless.… We do not need to become each other in order to
 work together. But we do need to recognize each other, our differences as well
 as the sameness of our goals. Not for altruism. For self-preservation—survival.
-—Audre Lorde, “[Commencement Address: Oberlin College](https://queerhistory.com/radical-graduation)” (1989)
+—Audre Lorde, “[Commencement Address: Oberlin College](https://queerhistory.com/radical-graduation)” (1989) ([my notes](/race_ej_cc_seminar/readingnotes/notesAudreLordeCommencement1989){: .internal-link})
 
 "The disparities in the water traced a pattern of inequality and disinvestment that was decades in the making."
 
