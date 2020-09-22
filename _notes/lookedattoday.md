@@ -7,6 +7,7 @@ Logged by date-ish. Essentially a storage space for me to stash links to experie
 **2020-09-21**
 + [http://www.smallarmssurvey.org/weapons-and-markets/stockpiles/civilian-inventories.html](http://www.smallarmssurvey.org/weapons-and-markets/stockpiles/civilian-inventories.html) - "Of the 857 million civilian-held firearms estimated in 2017, 393 million are in the United States—more than those held by civilians in the other top 25 countries combined."  
 + [https://fakepixels.substack.com/p/fkpxls-vol60-freedom-thats-granted?r=uuk8&utm_campaign=post&utm_medium=email&utm_source=copy](https://fakepixels.substack.com/p/fkpxls-vol60-freedom-thats-granted?r=uuk8&utm_campaign=post&utm_medium=email&utm_source=copy) - "freedom is a capacity and an awareness that needs to be defended", "the freedom that’s granted and the freedom that’s earned"
++ [https://www.climatechangenews.com/2019/07/23/no-coming-back-disappearing-coastlines/](https://www.climatechangenews.com/2019/07/23/no-coming-back-disappearing-coastlines/) - As Alaska’s natural buffer – ice – disappears, the coast is battered by a combination of storm surges, rising seas, and river flooding. This combines with the melting of the fragile tundra to frequently cause instances of catastrophic land collapse, otherwise known as **“usteq”**.
 
 **2020-09-19**
 + [https://www.thecut.com/2020/09/interview-writer-akwaeke-emezis-daily-routine.html](https://www.thecut.com/2020/09/interview-writer-akwaeke-emezis-daily-routine.html) (books! come to them! in their dreams!)
