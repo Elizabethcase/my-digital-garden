@@ -28,9 +28,9 @@ lead is bad – recommends Lead Wars by Rosner – Lead is a "multi-headed hydra
 we have gotten to a place in the scientific and medical community where were know that there are "no safe levels of lead"
 - 1920s - GM called lead "a gift from god" when putting lead in gasoline, defying science that knew EVEN THEN that lead was poison
 
-should have ended when teh first mom held a jug of brown water
+should have ended when the first mom held a jug of brown water
 
-btu it definitely should have ended when we found lead in teh water
+but it definitely should have ended when we found lead in teh water
 
 i had to supply proof of harm
 
@@ -62,20 +62,20 @@ so many kids in this country wake up to nightmares
 
 one of the biggest lessons of this story: we don't have to accept the status quo
 
-teh story of flint is the story of a crime, committed with absolute indifference against some of the most vulnerable people in our country.. but it's also a story for how normal people came together and refused to accept what was happening, refused to accept the injustice, and fought for our kids, and one
+the story of flint is the story of a crime, committed with absolute indifference against some of the most vulnerable people in our country.. but it's also a story for how normal people came together and refused to accept what was happening, refused to accept the injustice, and fought for our kids, and one
 
 a playbook of resistance and hope
 
 and that is a story we all need right now
 
-nutirtion prescription program – pediatric clinic above a farmers market, subsidized by rite aid, lead to national program ($25 mil)
+nutrition prescription program – pediatric clinic above a farmers market, subsidized by rite aid, lead to national program ($25 mil)
 
 "Ground yourself in your why.  Why do you wake up?  Why do you do your work?  Why are you here in this lecture?  These children are my why.  My why is their dreams.  Why you can ground yourself in your why, that helps you focus your message.  It enables me to get into rooms; it opens doors.  I am seen as pediatrician whose mission is children."
 
 the flint case was a case of environmental justice – the people impacted weren't included or listened to
 how are folks given a seat at the stable?
 so always – involve pre-policy rather than post-policy
-more representation, more diveristy
+more representation, more diversity
 child impact statements
 academia as the checks and balances to government?
 
