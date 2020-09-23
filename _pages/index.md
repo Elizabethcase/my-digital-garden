@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-Hello! So happy you've found your way to this experiment. I'm [Elizabeth Case](/about){: .internal-link}. This digital garden follows the roots of many others [1](https://nesslabs.com/mind-garden) [2](https://nadiaeghbal.com/) [3](https://twitter.com/Mappletons/status/1250532315459194880).  I'm initially trying to grow three gardens:
+Hello! So happy you've found your way to this experiment. I'm [Elizabeth Case](/about){: .internal-link}. This [digital garden](/digitalgardens){: .internal-link} follows the roots of many others [1](https://nesslabs.com/mind-garden) [2](https://nadiaeghbal.com/) [3](https://twitter.com/Mappletons/status/1250532315459194880).  I'm initially trying to grow three gardens:
 
 + One, generally, [about thinking, writing, reading, and living](/birdseyeview){: .internal-link}
 
