@@ -5,11 +5,12 @@ title: Daily-ish links...
 Logged by date-ish. Essentially a storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links. 
 
 **2020-09-22**
-[https://addapinch.com/wprm_print/31552/](https://addapinch.com/wprm_print/31552/) - mom says substitute rum for vanilla (turned out kind of dry? also 1.5x cocoa powder next time)
-[https://github.com/giswqs/geemap/blob/master/examples/notebooks/28_voila.ipynb](https://github.com/giswqs/geemap/blob/master/examples/notebooks/28_voila.ipynb) - make gifs from earth engine satellite images
-[https://www.amacad.org/daedalus/witnessing-climate-change](https://www.amacad.org/daedalus/witnessing-climate-change)
-[https://thepowerfingers.com/](https://thepowerfingers.com/)
-[Writing about slavery? This might help.](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic)
++ [https://addapinch.com/wprm_print/31552/](https://addapinch.com/wprm_print/31552/) - mom says substitute rum for vanilla (turned out kind of dry? also 1.5x cocoa powder next time)
++ [https://github.com/giswqs/geemap/blob/master/examples/notebooks/28_voila.ipynb](https://github.com/giswqs/geemap/blob/master/examples/notebooks/28_voila.ipynb) - make gifs from earth engine satellite images
++ [https://www.amacad.org/daedalus/witnessing-climate-change](https://www.amacad.org/daedalus/witnessing-climate-change)
++ [https://thepowerfingers.com/](https://thepowerfingers.com/)
++ [Writing about slavery? This might help.](https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs/mobilebasic) 
++ [Automate pushing to git repo](https://medium.com/@ospiegel51191/how-i-used-cron-to-automatically-simulate-git-activity-13651fd0ca12)
 
 **2020-09-21**
 + [http://www.smallarmssurvey.org/weapons-and-markets/stockpiles/civilian-inventories.html](http://www.smallarmssurvey.org/weapons-and-markets/stockpiles/civilian-inventories.html)
