@@ -46,7 +46,8 @@ _Note: if you need access to any of these readings, email or tweet me (see [abou
 
 ## Week 2: Environmental (In)justice in the U.S.
 
-### Speaker - [Dr. Mona Hanna-Attisha](https://monahannaattisha.com/) ([notes](/race_ej_cc_seminar/MonaHannaAttishaTalk){: .internal-link})
+### Speaker - [Dr. Mona Hanna-Attisha](https://monahannaattisha.com/) 
+[notes](/race_ej_cc_seminar/monahannaattishatalk){: .internal-link}
 
 ### Readings
 + [Civil Rights Commission 2017](https://www.michigan.gov/mdcr/0,4613,7-138--405318--a,00.html): Michigan Civil Rights Commission report -- The Flint Water Crisis: Systemic Racism Through the Lens of Flint

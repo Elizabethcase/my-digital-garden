@@ -1,3 +1,5 @@
+notes from talk by Dr. Mona Hanna-Attisha in the [Race, Environmental Justice, and Climate Change](/race_ej_cc_seminar/syllabusrejcc){: .internal-link}
+
 Flint, Michigan known for GM & creation of UAW --> was the richest per capita city in the country (1970s), now is one of the poorest
 
 GM once employed 90k people, now 90k don't even live in Flint;
