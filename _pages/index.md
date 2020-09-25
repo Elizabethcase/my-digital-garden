@@ -15,7 +15,7 @@ Hello! So happy you've found your way to this experiment. I'm [Elizabeth Case](/
 
 + A third, based on a seminar on [Race, Environmental Justice, and Climate Change](/race_ej_cc_seminar/syllabusrejcc){: .internal-link} that I helped organize in Fall 2020
 
-+ (temp link to firn/gpr project)
++ (temp link to [firn/gpr project](/FirnGPRProjWNanna/MainQuestions){: .internal-link})
 
 + (temp link to [plausible magic writing class](/plausiblemagic/main){: .internal-link})
 

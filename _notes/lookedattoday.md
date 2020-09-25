@@ -4,10 +4,15 @@ title: Daily-ish links...
 
 Logged by date-ish. Essentially a storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links. 
 
+**2020-09-24**
+[http://roberthodgin.com/project/meander](http://roberthodgin.com/project/meander)
+[https://www.omnisci.com/demos/tweetmap](https://www.omnisci.com/demos/tweetmap)
+[Anthropocene? Try Racial Capitolocene.](https://www.versobooks.com/blogs/3376-racial-capitalocene) - anthropocene indites all humans as responsible for the climate crisis. but on who's shoulders does that really lie, and how does "anthropocene" erase that responsibility?
+
 **2020-09-23**
 + [https://artvoice.com/2017/06/18/part-12-branded-slaves-master-raniere-dos-raniere-groups-facing-critical-shortage-new-recruits/](https://artvoice.com/2017/06/18/part-12-branded-slaves-master-raniere-dos-raniere-groups-facing-critical-shortage-new-recruits/)
 + [https://www.whitehouse.gov/presidential-actions/executive-order-combating-race-sex-stereotyping/
-](https://www.whitehouse.gov/presidential-actions/executive-order-combating-race-sex-stereotyping/)
+](https://www.whitehouse.gov/presidential-actions/executive-order-combating-race-sex-stereotyping/) - racist, facist erasure
 
 **2020-09-22**
 + [https://addapinch.com/wprm_print/31552/](https://addapinch.com/wprm_print/31552/) - mom says substitute rum for vanilla (turned out kind of dry? also 1.5x cocoa powder next time)

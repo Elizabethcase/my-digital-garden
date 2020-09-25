@@ -82,4 +82,63 @@ _Note: if you need access to any of these readings, email or tweet me (see [abou
 
 ### Speaker - [J.T. Roane](https://twitter.com/JTRoane?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-### Readings (TBD)
+### Readings
+
+* [Plotting the Black Commons (2018)](https://crdh.rrchnm.org/essays/v02-05-mapping-black-ecologies/)  ([my notes](/race_ej_cc_seminar/readingnotes/JTRoane_MappingBlackEcologies))
+* [Seamster and Purifoy (2020)](https://doi.org/10.1080/23251042.2020.1790331)
+* [Roane and Hosbey (2019)](https://crdh.rrchnm.org/essays/v02-05-mapping-black-ecologies/)
+* [From Extractive Agriculture to Industrial Waste Periphery: Life in a Black-Puerto Rican Ecology](https://www.aaihs.org/from-extractive-agriculture-to-industrial-waste-periphery-life-in-a-black-puerto-rican-ecology/)
+* Other links
+    * [Colonial cartography](https://twitter.com/EmmaSlager/status/1308189987087638529) - the tweet thread explains how maps of population density show Native erasure
+    * [How the census upholds a racial order](https://drive.google.com/file/d/1wnMutvPpbvpONC55XfxMqu-8ozI-jx4K/view?usp=sharing) - Hochschild
+    * Diverse ways people responded to George Bush’s policies
+        * [Lil Wayne - Georgia Bush](https://www.youtube.com/watch?v=wkA3p3YqH9U)
+        * [Bush shoeing incident](https://en.wikipedia.org/wiki/Bush_shoeing_incident) and [its ripple effects](https://en.wikipedia.org/wiki/List_of_shoe-throwing_incidents)
+
+### Discussion Topics and Questions:
+
+**General**
+
+* Think about your relationship with nature, and how that relationship might differ from someone else’s.
+* When you imagine a map, what does it look like? What do you think these maps leave out? Why?
+* How might someone’s perceived level of safety impact their chosen field of study? For instance, would someone who does not feel welcome or comfortable in nature opt to do field work there? 
+* What are explicit ways people are kept out of a field of study?
+* What are the implicit ways people are shunned or removed from a field?
+* When environmental racism is described as systemic, what systems, institutions, and organizations or corporations come to mind as most relevant? 
+
+**Plotting the Black Commons**
+
+* Stewardship through mastery
+    * What does stewardship mean?
+    * Do you need to be a master to be a steward?
+* Can earth science even operate without the “object-subject” perspective? Because we are scientists and need to look objectively at the earth.
+* Have you been part of efforts / groups that worked to create non-extractive relationships to the environment?
+    
+[From Extractive Agriculture to Industrial Waste Periphery: Life in a Black-Puerto Rican Ecology](https://www.aaihs.org/from-extractive-agriculture-to-industrial-waste-periphery-life-in-a-black-puerto-rican-ecology/)
+
+By Hilda Lloréns & Carlos G. García-Quijano
+
+* How might gender compound with environmental racism? 
+* Why is indigenous knowledge of the environment not considered essential when working in an industry that impacts the environment (i.e. GMOs or agriculture)?
+* How much do you know about [Columbia’s racist history](https://columbiaandslavery.columbia.edu/content/post-1865-columbia-and-legacy-slavery)? (or the history of your undergrad / previous institutions)? How has Columbia responded to native and Black activism on campus?
+* Moving beyond history and thinking about the present, what affiliations does Columbia maintain with settler-colonial intentions?
+* Where did the descendants of Black-Puerto Ricans in the Southeastern portion of the island come from, why did they locate themselves there, and what were the advantages and disadvantages to settling there?
+* What do you think Lloréns and García-Quijano meant by “an extractive resource periphery becomes a Black-Puerto Rican Ecology?”
+    
+What is environmental racism for? Place-based harm and relational development
+
+By Louise Seamster & Danielle Purifoy
+
+* Seamster and Purifoy discuss the idea of creative extraction:  “how white towns catalyze their development with resources from beyond their borders. This occurs through three main mechanisms: theft of resources (land and public finance), gradual erosion (environmental degradation and denial of basic services), and political exclusion (denial of democratic participation or eroding the agency/effectiveness of representatives).”
+* How does your community, or a community close to yours, benefit off of the resources of another community?
+* How is gentrification, as also seen in this article, reflected in Columbia’s current Manhattanville Campus initiative? [The Manhattanville Project - NYT](https://www.nytimes.com/2006/05/21/magazine/21wwln.essay.html) (if someone in the group knows about this, please share!)
+
+[Mapping Black Ecologies](https://crdh.rrchnm.org/essays/v02-05-mapping-black-ecologies/)
+
+By J.T Roane and Justin Hosbey
+
+* “Projecting and transforming a multilayered 3D place onto a 2D digital map necessitates the literal and figurative flattening of that location, producing a colonial, “bird’s eye view” of a landscape. 
+* What does this look like in practice? What do maps leave out? How do maps serve as tools for imperialistic genocide?
+* What could be the capitalist resistance against this? For example, why would Google Maps or Apple Maps be interested or not interested in creating maps based in Black knowledge?
+* “We argue that these Black counter-cartographies are spatial tactics of resistance.”
+* How is this a form of resistance? If you had to create a counter-cartography of your own experience, what would it look like? What would you include?
