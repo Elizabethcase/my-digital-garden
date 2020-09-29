@@ -4,10 +4,16 @@ title: Daily-ish links...
 
 Logged by date-ish. Essentially a storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links. 
 
+**2020-09-28**
++ [Healing tools beyond talk therapy](https://www.thesundaysoother.com/home/my-favorite-healing-resources-to-help-you-move-past-talk-therapy)
++ [IceSAT2 python tools](https://icepyx.readthedocs.io/en/latest/)
++ [Sea Level Change: SciArt Concert and Lecture](https://www.earth.columbia.edu/videos/view/sea-level-change-a-sciart-concert-and-lecture)
++ [Scientist who uses shotguns to learn about trees](https://www.theguardian.com/environment/2020/sep/17/shoots-and-leaves-the-shotgun-scientist-who-hunts-moving-trees-aoe)
+
 **2020-09-24**
-[http://roberthodgin.com/project/meander](http://roberthodgin.com/project/meander)
-[https://www.omnisci.com/demos/tweetmap](https://www.omnisci.com/demos/tweetmap)
-[Anthropocene? Try Racial Capitolocene.](https://www.versobooks.com/blogs/3376-racial-capitalocene) - anthropocene indites all humans as responsible for the climate crisis. but on who's shoulders does that really lie, and how does "anthropocene" erase that responsibility?
++ [http://roberthodgin.com/project/meander](http://roberthodgin.com/project/meander)
++ [https://www.omnisci.com/demos/tweetmap](https://www.omnisci.com/demos/tweetmap)
++ [Anthropocene? Try Racial Capitolocene.](https://www.versobooks.com/blogs/3376-racial-capitalocene) - anthropocene indites all humans as responsible for the climate crisis. but on who's shoulders does that really lie, and how does "anthropocene" erase that responsibility?
 
 **2020-09-23**
 + [https://artvoice.com/2017/06/18/part-12-branded-slaves-master-raniere-dos-raniere-groups-facing-critical-shortage-new-recruits/](https://artvoice.com/2017/06/18/part-12-branded-slaves-master-raniere-dos-raniere-groups-facing-critical-shortage-new-recruits/)
