@@ -80,7 +80,7 @@ _Note: if you need access to any of these readings, email or tweet me (see [abou
 
 ## Week 3: Environmental (In)justice in the U.S.
 
-### Speaker - [J.T. Roane](https://twitter.com/JTRoane?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+### Speaker - [J.T. Roane](https://twitter.com/JTRoane?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) ([notes](/race_ej_cc_seminar/JTroanetalk))
 
 ### Readings
 
