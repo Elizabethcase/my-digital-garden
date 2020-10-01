@@ -15,8 +15,10 @@ There are tons of organizations and opportunities out there to get out the vote;
 + [Text banking](https://www.mobilize.us/2020victory/event/293967/) for Biden-Harris
 + [Text banking](https://resistancelabs.com/) with Resistance Labs for state and congressional elections
 + [Text banking](https://www.openprogress.com/text-troop) with Open Progress for vote mobilization, marches, elections, and issues
++ [Text banking](https://docs.google.com/forms/d/1hSLgv-0KVTFcJcuIi-mGoqHq5EclnhSG4o5eCtnu0D4/viewform?edit_requested=true&fbzx=5356461926323172696) with Black Lives Matter
 + Write an op-ed to your student/local newspaper encouraging folks to vote
 + Listen to an hour of Swing Left's [How We Win](https://swingleft.org/podcast) podcast
 + Sign up as a [pollworker](https://www.powerthepolls.org/?source=indivisible), if you're able
++ Read about  [voter suppression](https://www.democracydocket.com/)
 
 Back to the [landing page](/PoliticalActionOct2020/landingpage){: .internal-link}
