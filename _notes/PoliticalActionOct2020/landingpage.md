@@ -19,6 +19,8 @@ Here are landing pages for:
 
 Here's an invite to the [calendar of actions](https://calendar.google.com/calendar/u/0?cid=Y19ndXZ1YjV0aDk1aTNkaWxyN2UwNmlndWVoMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) I'm taking in October. It's super specific to me! Some events are not open to everyone, but always feel free to jump on zoom with me if you'd like an accountability buddy. 
 
+Here's my [daily action log](/PoliticalActionOct2020/actionlog){: .internal-link}.
+
 I'm holding myself accountable donating $50 if I miss a day. I don't make very much money so this is really an incentive! Choose a number that works for you & your budget & life.
 
 Here's a checklist for actions to get you off the ground and running.
