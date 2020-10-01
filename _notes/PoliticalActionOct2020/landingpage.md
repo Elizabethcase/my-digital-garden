@@ -15,16 +15,16 @@ Or ten minutes every day, or an hour a week?
 
 Together, we can help swing this election. This little website will help you find and take action, and help me stay accountable to at least an hour of day of progressive political action in October 2020. It will be updated regularly.
 
-First! Here's [how to vote](https://www.vote.org/), with information about all 50 states. Check now to sign up & check you are registered!
+**First! Here's [how to vote](https://www.vote.org/)**, with information about all 50 states. Check now to sign up & check you are registered!
 
-Next! [Get out the vote](/PoliticalActionOct2020/volunteer){: .internal-link} and [volunteer for progressive candidates](/PoliticalActionOct2020/volunteer){: .internal-link}  
+**Next! [Get out the vote](/PoliticalActionOct2020/volunteer){: .internal-link} and [volunteer for progressive candidates](/PoliticalActionOct2020/volunteer){: .internal-link}**
 
 I'm holding myself accountable donating $50 if I miss a day. I don't make very much money so this is really an incentive! Choose a number that works for you & your budget & life. 
 
-Here are some [orgs & campaigns to donate to.](/PoliticalActionOct2020/donate){: .internal-link}  
+**Here are some [orgs & campaigns to donate to.](/PoliticalActionOct2020/donate){: .internal-link}  **
 
-Here's an invite to the [calendar of actions](https://calendar.google.com/calendar/u/0?cid=Y19ndXZ1YjV0aDk1aTNkaWxyN2UwNmlndWVoMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) I'm taking in October. It's super specific to me! Some events are not open to everyone, but always feel free to jump on zoom with me if you'd like an accountability buddy. 
+**Here's an invite to the [calendar of actions](https://calendar.google.com/calendar/u/0?cid=Y19ndXZ1YjV0aDk1aTNkaWxyN2UwNmlndWVoMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)** I'm taking in October. It's super specific to me! Some events are not open to everyone, but always feel free to jump on zoom with me if you'd like an accountability buddy. 
 
-Here's my [daily action log](/PoliticalActionOct2020/actionlog){: .internal-link}.
+Here's my **[daily action log](/PoliticalActionOct2020/actionlog){: .internal-link}**.
 
 Feel free to contact me if you need any motivation or have any questions or suggestions, and I'll do my best to get back to you – elizabethhcase [at] gmail [dot] com
