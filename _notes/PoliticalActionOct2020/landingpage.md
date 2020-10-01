@@ -23,6 +23,6 @@ Here's my [daily action log](/PoliticalActionOct2020/actionlog){: .internal-link
 
 I'm holding myself accountable donating $50 if I miss a day. I don't make very much money so this is really an incentive! Choose a number that works for you & your budget & life.
 
-Here's a checklist for actions to get you off the ground and running.
+Here's a [checklist](/PoliticalActionOct2020/checklist){: .internal-link} for actions to get you off the ground and running.
 
 Feel free to contact me if you need any motivation or have any questions or suggestions, and I'll do my best to get back to you – elizabethhcase [at] gmail [dot] com
