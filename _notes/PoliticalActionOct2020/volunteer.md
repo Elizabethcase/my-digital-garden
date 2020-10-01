@@ -2,7 +2,7 @@
 title: Volunteering opportunities and suggestions
 ---
 
-There are tons of orgs and opportunities out there to vote; here are just a few. Please ping me if you have any suggestions for links or actions to add to this list.
+There are tons of organizations and opportunities out there to get out the vote; here are just a few. Please ping me if you have any suggestions for links to add to this list.
 
 + [Victory squad training](https://postcards.sunrisemovement.org/) with Sunrise Movement
 + Print and post free [Vote posters](https://www.yourvotecampaign.com/downloads) (and here is a link to [wheatpasting](https://crimethinc.com/2017/07/18/a-field-guide-to-wheatpasting-everything-you-need-to-know-to-blanket-the-world-in-posters))
