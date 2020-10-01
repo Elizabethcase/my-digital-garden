@@ -18,3 +18,5 @@ There are tons of organizations and opportunities out there to get out the vote;
 + Write an op-ed to your student/local newspaper encouraging folks to vote
 + Listen to an hour of Swing Left's [How We Win](https://swingleft.org/podcast) podcast
 + Sign up as a [pollworker](https://www.powerthepolls.org/?source=indivisible), if you're able
+
+Back to the [landing page](/PoliticalActionOct2020/landingpage){: .internal-link}

@@ -4,13 +4,15 @@ title: October 2020 Progressive Political Action
 
 Hello!
 
-This is a landing page to **help you take an hour or more of action every day in October**. It will be updated regularly.
+<div style="text-align: center; color: blue;"><b> Can you commit to<br> one hour of progressive political action <br>every day in October?</b></div>
+<br>
+> No matter how you swing it, the 2020 election has put lives, livelihoods, and the future of this planet as we know it on the line.
 
-No matter how you swing it, the 2020 election has put lives, livelihoods, and the future of this planet as we know it on the line.
+> For a fighting chance, we need to vote Donald Trump out and turn the senate blue. Join me in taking an hour of your day, every day in October, to work for a fair election and progressive candidates. Look, I don't agree with every part of the Democratic party either; but at least with them, we can spend the next four years pushing for meaningful action on climate change, immigration, and equity.
 
-For a fighting chance, we need to vote Donald Trump out and turn the senate blue. Join me in taking an hour of your day, every day in October, to work for a fair election and progressive candidates. Look, I don't agree with every part of the Democratic party either; but at least with them, we can spend the next four years pushing for meaningful action on climate change, immigration, and equity.
+Together, we can help swing this election. This little website will help you find and take action, and help me stay accountable to at least an hour of day of progressive political action in October 2020. It will be updated regularly.
 
-Here's [how to vote](https://www.vote.org/), with information about all 50 states.
+First! Here's [how to vote](https://www.vote.org/), with information about all 50 states. Check now to sign up & check you are registered!
 
 Here are landing pages for:
 

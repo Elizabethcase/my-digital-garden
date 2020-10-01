@@ -26,3 +26,5 @@ _General info about key races [here](https://docs.google.com/document/u/1/d/e/2P
 + [Mark Kelly](https://secure.actblue.com/donate/kelly.up) takes on Martha McSally in Arizona (folks he is an astronaut! and husband to Gabby Giffords)
 + [Steve Bullock]([https://secure.actblue.com/donate/bullock.up](https://www.google.com/url?q=https://secure.actblue.com/donate/bullock.up&sa=D&ust=1601522324168000&usg=AOvVaw2NJRpNla1LgwycFPnyXUFj)) takes on Steve Daines in Montana (battle of the Steves)
 + [Cal Cunningham](https://secure.actblue.com/donate/cunningham.up) takes on Thom Tillis in North Carolina 
+
+Back to the [landing page](/PoliticalActionOct2020/landingpage){: .internal-link}

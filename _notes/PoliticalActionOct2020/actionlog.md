@@ -2,7 +2,7 @@
 title: Daily Action Log
 ---
 
-October 1:  Signed up for 350.org [climate-related phone banking](https://act.350.org/go/212663?aktmid=tm4915495.EwCjwv&akid=a22330370.3000156.wflPtj&t=1&source=conf); 
+October 1:  Signed up for 350.org [climate-related phone banking](https://act.350.org/go/212663?aktmid=tm4915495.EwCjwv&akid=a22330370.3000156.wflPtj&t=1&source=conf); finalized this website; 
 October 2:  
 October 3:  
 October 4:  
@@ -33,3 +33,5 @@ October 28:
 October 29:  
 October 30:  
 October 31:  
+
+Back to the [landing page](/PoliticalActionOct2020/landingpage){: .internal-link}

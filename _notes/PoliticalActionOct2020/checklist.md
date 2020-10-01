@@ -8,3 +8,5 @@ title: Checklist
 - [ ] Plan at least 3-5 days ahead. Make it easy on yourself – include all links & descriptions
 - [ ] Share that calendar with your friends!
 - [ ] Keep track of your daily actions.
+
+Back to the [landing page](/PoliticalActionOct2020/landingpage){: .internal-link}
