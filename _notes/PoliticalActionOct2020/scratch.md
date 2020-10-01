@@ -1,0 +1,6 @@
+
+No matter how you swing it, the 2020 election will be the deciding factor on whether we choose to act on the Climate Crisis. With climate change comes: wildfires, hurricanes, flooding, shoreline erosion, sea level rise, ecosystem collapse, mass migration, and many more futures we _don't actually have to live through_. If we elect Biden, we're going to have to fight like hell to get his administration to take any action. If we elect Trump, we are virtually guaranteed to worsen climate change impacts. Let's be clear: Trump's lack of action on climate change puts human lives, jobs, and futures at risk.
+
+The rest of Donald Trump's record includes: imprisoning migrants in concentration camps after stealing their children, extraordinary racism that buoys white supremacy, rolling back 64 environmental rules and regulations (that's what keeps our air safe to breathe, our water safe to drink), and negligence in leadership that lead to at last some of the deaths of the 200,000+ Americans that have died of COVID-19. 
+
+We need to vote him out. Join me in taking an hour of your day, every day in October, to fight for a fair election, progressive candidates, and a democratic senate. Look, I don't agree with every part of the Democratic party; but at least with them, we have a smidgen of a chance to fight for a better world. 
