@@ -8,7 +8,7 @@ This is a landing page to **help you take an hour or more of action every day in
 
 No matter how you swing it, the 2020 election has put lives, livelihoods, and the future of this planet as we know it on the line.
 
-We need to vote Donald Trump out and turn the senate blue. Join me in taking an hour of your day, every day in October, to work for a fair election and progressive candidates. Look, I don't agree with every part of the Democratic party; but at least with them, we have a smidgen of a chance to fight for a better world. 
+For a fighting chance, we need to vote Donald Trump out and turn the senate blue. Join me in taking an hour of your day, every day in October, to work for a fair election and progressive candidates. Look, I don't agree with every part of the Democratic party either; but at least with them, we can spend the next four years pushing for meaningful action on climate change, immigration, and equity.
 
 Here's [how to vote](https://www.vote.org/), with information about all 50 states.
 
@@ -19,7 +19,7 @@ Here are landing pages for:
 
 Here's an invite to the [calendar of actions](https://calendar.google.com/calendar/u/0?cid=Y19ndXZ1YjV0aDk1aTNkaWxyN2UwNmlndWVoMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) I'm taking in October. It's super specific to me! Some events are not open to everyone, but always feel free to jump on zoom with me if you'd like an accountability buddy. 
 
-I'm holding myself accountable donating $50 if I miss a day. I don't make very much money so this is really incentive! Choose a number that works for you & your budget & life.
+I'm holding myself accountable donating $50 if I miss a day. I don't make very much money so this is really an incentive! Choose a number that works for you & your budget & life.
 
 Here's a checklist for actions to get you off the ground and running.
 
