@@ -4,6 +4,10 @@ title: Daily-ish links...
 
 Logged by date-ish. Essentially a storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links. 
 
+**2020-10-01**
++ [A call to writers](https://www.riverwalking.com/blog/a-call-to-writers-1.html) 
++ "A concentrated attack on the collective" - John Freeman
+
 **2020-09-28**
 + [Healing tools beyond talk therapy](https://www.thesundaysoother.com/home/my-favorite-healing-resources-to-help-you-move-past-talk-therapy)
 + [IceSAT2 python tools](https://icepyx.readthedocs.io/en/latest/)

@@ -22,8 +22,8 @@ To do this, we looked at two datasets collected by GEUS at Camp Recovery in 2018
 We ended up straying from these questions a bit when forming the hypothesis. We ended up with a few hypotheses:
 
 1. We can use the cores to trace internal layers and give some estimate in variability of porosity & the effect of this on satellite penetration depth
-2. Under the same climate conditions, low accumulation areas have fewer ice lenses than high accumulation areas. High accumulation areas have thicker ice lenses. 
-3. Summer surfaces can be so hardened that they prevent percolation deeper into the firn pack (protection) and provide a layer for ice lenses to form on. While summer surfaces show strong reflections, this doesn't explain the lateral variability of ice lenses. The difficulty of identifying ice lenses in the radar data may prevent us from answering this question.
+2. Under the same climate conditions, do low or high accumulation areas have more or less ice lenses? Do high accumulation areas have thicker ice lenses?
+3. Summer surfaces can be so hardened that they prevent percolation deeper into the firn pack (protection) and provide a layer for ice lenses to form on – explains some vertical variability of ice lenses? Summer surfaces show continuous strong reflections, so this doesn't explain the lateral variability of ice lenses. The difficulty of identifying ice lenses in the radar data may prevent us from answering this question.
 
 ### Day 1
 

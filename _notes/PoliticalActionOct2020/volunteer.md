@@ -5,6 +5,7 @@ title: Volunteering opportunities and suggestions
 There are tons of organizations and opportunities out there to get out the vote; here are just a few. Please ping me if you have any suggestions for links to add to this list.
 
 + [Victory squad training](https://postcards.sunrisemovement.org/) with Sunrise Movement
++ [Indivisible Get Out The Vote](https://act.indivisible.org/go/513441?t=5&akid=67282%2E2929391%2EVX_gLN) training (Oct 3)
 + Print and post free [Vote posters](https://www.yourvotecampaign.com/downloads) (and here is a link to [wheatpasting](https://crimethinc.com/2017/07/18/a-field-guide-to-wheatpasting-everything-you-need-to-know-to-blanket-the-world-in-posters))
 + Write postcards to voters
     - [Postcards To Voters](https://postcardstovoters.org/postcards/) 
@@ -13,6 +14,7 @@ There are tons of organizations and opportunities out there to get out the vote;
     + [Phone banking](https://www.mobilize.us/joebiden/) for Biden-Harris
     + [Phone banking](https://swingleft.org/) for swing states or your home state with Swing Left
     + [Phone banking](https://act.350.org/go/212663?aktmid=tm4915495.EwCjwv&akid=a22330370.3000156.wflPtj&t=1&source=conf) around climate with 350.org
+    + [Phone banking](https://www.sunrisemovement.org/campaign/phone-banking/) for Green New Deal candidates with the Sunrise Movement
 + Text banking
     + [Text banking](https://www.mobilize.us/2020victory/event/293967/) for Biden-Harris
     + [Text banking](https://resistancelabs.com/) with Resistance Labs for state and congressional elections
