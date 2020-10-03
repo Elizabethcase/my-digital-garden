@@ -16,6 +16,8 @@ Hello! So happy you've found your way to this experiment. I'm [Elizabeth Case](/
 
 + (temp link to [October 2020 political actions](/PoliticalActionOct2020/landingpage){: .internal-link})
 
++ LInk to [Pond Notes](/pond-notes/landingpage){: .internal-link}, daily observations over six weeks of a eutrophic pond in upstate new york
+
 I'm mostly using this as a way to deposit notes, drafts, and thoughts that could use a conversation or connection to deepen or expand. A lot of folks smarter than me have [a lot of thoughts on good note-taking](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be), but I'm also interested in leaving quotes as whole posts, in dead-ends that require backtracking, and in links to writing that say it better than I ever could. I'm thinking of this garden as a generative writing tool, a memory bank, and a different mode of linking research topics together. Please reach out to me if you'd like to chat about anything on here -- I'm on twitter at [elizabeth_case](https://www.twitter.com/elizabeth_case), and I have a more [traditional website](https://elizabethcase.github.io/).
 
 For some art/people/newsletters/links I love, check out my ever-evolving [recommendation list](/linklist){: .internal-link}, or for a daily-ish log of impressions, here's [a list of links I've been clicking](/lookedattoday){: .internal-link}.
