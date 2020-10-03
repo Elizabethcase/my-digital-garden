@@ -7,6 +7,6 @@ I spent eight weeks on the June Arthur farm in upstate New York during the COVID
 [Friday October 2](/pondnotes/20201002_Fri)
 
 
-![IMG_1089.jpeg](pond.jpeg)
+![IMG_1089.jpeg](/assets/pond.jpeg)
 
 
