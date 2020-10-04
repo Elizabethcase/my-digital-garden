@@ -7,6 +7,6 @@ I spent eight weeks on the June Arthur farm in upstate New York during the COVID
 [Friday October 2](/pondnotes/20201002_Fri)
 
 
-![IMG_1089.jpeg](/assets/pond.jpeg)
+![Past a grassy lawn and surrounded by sugar maples colored green, red and yellow, you can see a small pond. Above, a bright blue sky is dashed through by white and grey clouds.](/assets/pond.jpeg)
 
 
