@@ -4,6 +4,16 @@ title: Daily-ish links...
 
 Logged by date-ish. Essentially a storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links. 
 
+**2020-10-07** (+backlog)
+
++  [Bird Note - 1 min podcasts](https://www.birdnote.org/)
++  [Teaching Rilke by Mail](https://popula.com/2020/10/01/living-in-letters/)
++  [Interview with K-Ming Chang (author of Bestiary)](https://therumpus.net/2020/09/the-rumpus-interview-with-k-ming-chang/)
++ [20020](https://www.sbnation.com/secret-base/21410129/20020/chapter-1) - I can't even express how excited I am to see a followup to [17776](https://www.sbnation.com/a/17776-football), possibly my favorite media ever created. just click all the links and give yourself an hour.
++ [Abolition for the People](https://level.medium.com/abolition-for-the-people-397ef29e3ca5)
++ [Ledelle Moe's](https://massmoca.org/event/ledelle-moe/) show at Mass MOCA (which I visited in September)
++ [Writing the Environment](https://centerforfiction.org/videos/on-america-writing-and-reading-the-environment/) panel & list of book recommendations
+
 **2020-10-01**
 + [A call to writers](https://www.riverwalking.com/blog/a-call-to-writers-1.html) 
 + "A concentrated attack on the collective" - John Freeman

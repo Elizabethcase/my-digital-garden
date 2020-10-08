@@ -7,7 +7,7 @@ title: Daily Action Log
 **October 3:** ½ hour of [Indivisible](https://indivisible.org/) Bootcamp – go to [ProtectTheResults.com](www.ProtectTheResults.com) to prepare for what to do after the election if Trump doesn't concede; donated $25 to [Amy McGrath](https://secure.actblue.com/donate/am-website?refcode=website-nav) (in KY vs. McConnell)
 **October 4:** [Sunrise Victory Squad](https://www.sunrisemovement.org/campaign/victory-squad/) training - just 2 hours a week!
 **October 5:**  2020 Victory [Text Training](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFtfWY2p7sAhUH1VkKHXN3C34QFjAAegQIARAD&url=https%3A%2F%2Fwww.mobilize.us%2F2020victory%2Fevent%2F293967%2F&usg=AOvVaw2mB4T_nu7mYXol2huqG7km) with Biden/Harris (super long training for text banking, I think, maybe find a diff text bank); wrote up [story](/PoliticalActionOct2020/story){: .internal-link} to send email to friends/family to encourage them to take action
-**October 6:**  
+**October 6:**  [Climate Resiliency, Mitigation and Science: A Congressional Panel with the American Geophysical Union](https://agu.zoom.us/j/96717425204?pwd=Z0p2Q3NXKzBIWUFHSTk1amVGeTNOUT09) - and here's a link to [one pagers](https://climatecrisis.house.gov/one-pagers) on the climate crisis from the select committee
 **October 7:**  
 **October 8:**  
 **October 9:**  

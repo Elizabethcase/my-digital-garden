@@ -7,6 +7,7 @@ There are tons of organizations and opportunities out there to get out the vote;
 + [Victory squad training](https://postcards.sunrisemovement.org/) with Sunrise Movement
 + [Indivisible Get Out The Vote](https://act.indivisible.org/go/513441?t=5&akid=67282%2E2929391%2EVX_gLN) training (Oct 3)
 + Print and post free [Vote posters](https://www.yourvotecampaign.com/downloads) (and here is a link to [wheatpasting](https://crimethinc.com/2017/07/18/a-field-guide-to-wheatpasting-everything-you-need-to-know-to-blanket-the-world-in-posters))
++ [Support voting](https://www.mobilize.us/thefrontline/event/321224/?utm_source=womensmarch) by becoming a poll monitor trained in de-escalation tactics, who to contact for voting rights infringement, etc 
 + Write postcards to voters
     - [Postcards To Voters](https://postcardstovoters.org/postcards/) 
     - [Democratic Get Out the Vote Postcard Campaigns](https://docs.google.com/document/u/1/d/e/2PACX-1vTd9UmW__Zqj89o4Df8qYhLOK5dimPxreYvGhM97wZ-l2Cj8DcfRD3a-JAJrQbgiIaB3kKOj525G9ul/pub) 
