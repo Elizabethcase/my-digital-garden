@@ -13,7 +13,7 @@ title: Daily Action Log
 **October 9:**  Pollworker Training (4 hours, bank 2)
 **October 10:**  None - friends visiting (bank 1)
 **October 11:**  [Sunrise Victory Squad](https://www.sunrisemovement.org/campaign/victory-squad/), addressed postcards for [Chrissy Houlahan in PA-06](https://www.chrissyhoulahanforcongress.com/)
-**October 12:**  
+**October 12:**  $50 donation to [Amy McGrath](https://secure.actblue.com/donate/am-website?refcode=website-nav)
 **October 13:**  
 **October 14:**  
 **October 15:**  
