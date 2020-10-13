@@ -4,6 +4,13 @@ title: Daily-ish links...
 
 Logged by date-ish. Essentially a storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links. 
 
+**2020-10-07**
++ https://meaningness.com/resolution
++ [Who is really sick? Society, the individual, mental health, and the climate crisis](https://believermag.com/under-the-weather/)
++ Deb Chandra and Charlie Loyd's archived newsletter on visiting California's 
+
+
+
 **2020-10-07** (+backlog)
 
 +  [Bird Note - 1 min podcasts](https://www.birdnote.org/)
