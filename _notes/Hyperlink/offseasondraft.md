@@ -1,4 +1,6 @@
-# The Off Season
+---
+title: The Off Season
+---
 
 ## February 21 
 **this ghost story is inspired by a week spent in Provincetown in the middle of winter**

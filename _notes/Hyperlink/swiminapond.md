@@ -1,4 +1,6 @@
-# A Swim in a Pond in the Rain - George Saunders
+---
+title: A Swim in a Pond in the Rain - George Saunders
+---
 
 ## We Begin (Introduction)
 
