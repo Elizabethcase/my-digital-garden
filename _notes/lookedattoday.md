@@ -1,8 +1,24 @@
 ---
-title: Daily-ish links...
+title: Backlog/Futurelog
 ---
 
-Logged by date-ish. Essentially a storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links. 
+Logged by date-ish. A storage space for me to stash links to experiences, articles, etc. Very little vetting, may not have read or explored all or most of these links, an antilibrary of the internet, ripe with potential.
+
+**2021-02-04**
+- [Decolonizing Methodologies](https://www.zedbooks.net/shop/book/decolonizing-methodologies/) - This essential volume explores intersections of imperialism and research - specifically, the ways in which imperialism is embedded in disciplines of knowledge and tradition as 'regimes of truth.' 
+- [Julian's monthly log](https://julian.digital/) - of books, articles, etc. I'm mostly extremely charmed by the aesthetics. I don't have the patience or discipline to do something like this but I will definitely steal some design ideas from this.
+- [Brian Lovin](https://brianlovin.com/bookmarks/portfolio) - on the other side, I hate the aesthetics of this website, but I like the sections & a few links have proven valuable
+- [Critical slowing down as early warning for the onset and termination of depression](https://www.pnas.org/content/111/1/87) - As complex systems such as the climate or ecosystems approach a tipping point, their dynamics tend to become dominated by a phenomenon known as critical slowing down. Using time series of autorecorded mood, we show that indicators of slowing down are also predictive of future transitions in depression. Specifically, in persons who are more likely to have a future transition, mood dynamics are slower and different aspects of mood are more correlated. This supports the view that the mood system may have tipping points where reinforcing feedbacks among a web of symptoms can propagate a person into a disorder. Our findings suggest the possibility of early warning systems for psychiatric disorders, using smartphone-based mood monitoring.
+
+**2020-12-06**
+- https://math.vanderbilt.edu/schectex/commerrs/#Euler
+- https://bucketoverflow.substack.com/p/november-2020-half-arsed-linkpost
+- https://www.lesswrong.com/posts/jRkkgszocHcsHfDAe/what-are-your-strategies-for-avoiding-micro-mistakes
+- [Proselint](https://github.com/amperser/proselint/)
+- [PIC abolition 101](https://www.youtube.com/watch?v=HVh1Ff3eGfY)
+
+**2020-12-05**
+- [How to be a good mentor](https://www.nap.edu/read/5789/chapter/2#3)
 
 **2020-10-13**
 + [https://csegrecorder.com/articles/view/ancient-chinese-drilling](https://csegrecorder.com/articles/view/ancient-chinese-drilling)

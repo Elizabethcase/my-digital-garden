@@ -14,15 +14,15 @@ title: Daily Action Log
 **October 10:**  None - friends visiting (bank 1)
 **October 11:**  [Sunrise Victory Squad](https://www.sunrisemovement.org/campaign/victory-squad/), addressed postcards for [Chrissy Houlahan in PA-06](https://www.chrissyhoulahanforcongress.com/)
 **October 12:**  $50 donation to [Amy McGrath](https://secure.actblue.com/donate/am-website?refcode=website-nav)
-**October 13:**  
-**October 14:**  
+**October 13:**  Stamped & addressed 100 postcards for Sunrise & Chrissy Houlahan 
+**October 14:**  Textbanking with Resistance Labs (800 texts)
 **October 15:**  
 **October 16:**  
-**October 17:**  
-**October 18:**  
-**October 19:**  
-**October 20:**  
-**October 21:**  
+**October 17:**  $50 donation to Jaimie Harrison
+**October 18:**  Victory Squad with the Sunrise Movement
+**October 19:**  23 Postcards for the Sunrise Movement
+**October 20:**  21 Postcards for the Sunrise Movement
+**October 21:**  1.25 hours of Phonebanking with 350 Climate
 **October 22:**  
 **October 23:**  
 **October 24:**  

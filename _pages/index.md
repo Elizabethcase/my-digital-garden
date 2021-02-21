@@ -11,9 +11,11 @@ Hello! So happy you've found your way to this experiment. I'm [Elizabeth Case](/
 
 Everything here is --- under construction ---
 
-+ Ongoing notes from a seminar on [Race, Environmental Justice, and Climate Change](/race_ej_cc_seminar/syllabusrejcc){: .internal-link} that I helped organize in Fall 2020
-
-+ Link to [October 2020 political actions](/PoliticalActionOct2020/landingpage){: .internal-link})
++ [Notes on "A Swim in a Pond in the Rain"](/Hyperlink/swiminapond){: .internal-link} by George Saunders, as a part of the [hyperlink adventure group #0](https://hyperlink.academy/dashboard)
+	+ A [short story](/Hyperlink/offseasondraft){: .internal-link} in progress
+	+ Critique of a short story (coming soon)
++ Temp link to [firn/gpr project](/FirnGPRProjWNanna/MainQuestions){: .internal-link}
++ Link to [Pond Notes](/pondnotes/landingpage){: .internal-link}, daily observations over six weeks of a eutrophic pond in upstate new york
 
 I'm will be using this as a way to deposit notes, drafts, and thoughts that could use a conversation or connection to deepen or expand. A lot of folks smarter than me have [a lot of thoughts on good note-taking](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be), but I'm also interested in leaving quotes as whole posts, in dead-ends that require backtracking, and in links to writing that say it better than I ever could. I'm thinking of this garden as a generative writing tool, a memory bank, and a different mode of linking research topics together. Please reach out to me if you'd like to chat about anything on here -- I'm on twitter at [elizabeth_case](https://www.twitter.com/elizabeth_case), and I have a more [traditional website](https://elizabethcase.github.io/).
 
