@@ -1,5 +1,5 @@
 ---
-Title: Water - Cycle, Thirst, Quench, Heat, Flow, Freeze, Dissolve
+title: Water - Cycle, Thirst, Quench, Heat, Flow, Freeze, Dissolve
 ---
 
 ![hydrologic consequences](hannahpmode_hydrologic.png)
