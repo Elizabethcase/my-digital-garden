@@ -1,11 +1,12 @@
 ---
-title: "Climate Change | Climate Fiction Syllabus"
+title: Climate Change, Climate Fiction Syllabus
 ---
 
-<img src="/rda/tetons_stream_veg.jpg" usemap="#image-map">
+
+<img src="https://elizabethcase.net/rda/tetons_stream_veg.jpg" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="Hydrologic Cycle" title="Hydrologic Cycle" href="https://elizabethcase.net/rda/cccf-hydrology" coords="1546,1916,1667,1678,1610,1585,1589,1535,1574,1475,1692,1489,1863,1514,2141,1642,2301,1720,2810,1742,3266,1806,3448,1927,3665,2059,4028,2123,3954,2183,3526,2109,3466,2176,3426,2141,3473,2044,3426,1955,3341,1913,3152,1934,3028,2062,3099,2119,3199,2244,3092,2354,3092,2433,2967,2668,2917,2860,2899,3020,2707,3017,2682,2889,2575,2803,2451,2679,2226,2515,1913,3013,1727,2800,1802,2365,1923,2294,2009,2294,2037,2119,1955,2062,1941,1988,1841,1945,1777,1945,1692,1934,1646,2016,1567,2037,1514,1970" shape="poly">
-    <area target="" alt="Geologic Cycle" title="Geologic Cycle" href="https://elizabethcase.net/rda/cccf-geology" coords="1489,1963,1656,1692,1564,1517,1539,1439,1878,1496,2298,1699,2857,1724,3089,1503,2757,1272,2358,1165,2002,1093,1397,1015,1126,972,1008,705,1204,638,1357,545,1261,395,1179,271,1026,217,984,118,709,53,588,153,410,7,22,18,18,1051,11,1364,570,1304,620,1464,823,1311,947,1539,816,1824,752,1959,1093,1980,1136,1938,1161,1770" shape="poly">
-    <area target="" alt="Welcome to the Greenhouse" title="Welcome to the Greenhouse" href="https://elizabethcase.net/rda/cccf-greenhouse" coords="14,1393,556,1329,609,1485,823,1336,933,1539,730,1977,1118,1998,1186,1802,1482,1984,1443,2141,1564,2148,1685,2376,1770,2333,1724,2800,1877,3013,14,3006" shape="poly">
+    <area target="" alt="Water - Cycle, Thirst, Quench, Heat, Flow, Freeze, Dissolve" title="Water - Cycle, Thirst, Quench, Heat, Flow, Freeze, Dissolve" href="https://elizabethcase.net/rda/cccf-hydrology" coords="1792,2670,1809,2385,2020,2224,2094,2160,1973,2064,1909,1989,1756,1954,1678,1925,1646,2014,1581,2014,1514,1979,1685,1647,1546,1466,1906,1516,2130,1615,2337,1704,2554,1726,2832,1697,3231,1772,3508,1886,3633,2046,4025,2110,3761,2239,3733,2125,3555,2093,3426,1954,3195,1918,3020,2085,3273,2196,3109,2324,3131,2378,2985,2641,2928,2769,2931,2994,2632,3004,2508,3001,2443,2880,2554,2716,2329,2638,2301,2527,2176,2577,2148,2638,1920,2687" shape="poly">
+    <area target="" alt="Geology - Softness, Weathering, Time, Material" title="Geology - Softness, Weathering, Time, Material" href="https://elizabethcase.net/rda/cccf-geology" coords="7,5,4,1238,801,1968,1521,1957,1674,1651,1542,1448,1891,1498,2408,1719,3013,1601,3088,1487,3042,1412,2768,1259,2532,1209,2055,1095,1414,1003,1093,942,994,696,1161,700,1343,529,1279,340,1250,248,987,126,677,48,598,130,296,12" shape="poly">
+    <area target="" alt="Welcome to the Greenhouse" title="Welcome to the Greenhouse" href="https://elizabethcase.net/rda/cccf-greenhouse" coords="150,1380,734,1979,1482,1986,1446,2164,1581,2175,1671,2363,1788,2349,1703,2812,1934,3022,4,3022,11,1384" shape="poly">
 </map>
