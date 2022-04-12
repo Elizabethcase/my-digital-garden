@@ -11,6 +11,7 @@ Hello! So happy you've found your way to this experiment. I'm [Elizabeth Case](/
 
 Everything here is --- under construction ---
 
++ link to [Climate Change ~ Climate Fiction syllabus](/rda/cccf-syllabus){: .internal-link}, a project in progress as part of [Redesigning the Academy](https://redesigningacademy.wordsinspace.net/spring2022/)
 + [Notes on "A Swim in a Pond in the Rain"](/Hyperlink/swiminapond){: .internal-link} by George Saunders, as a part of the [hyperlink adventure group #0](https://hyperlink.academy/dashboard)
 	+ A [short story](/Hyperlink/offseasondraft){: .internal-link} in progress
 	+ Critique of a short story (coming soon)
