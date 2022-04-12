@@ -1,8 +1,8 @@
 ---
-title: Climate Change | Climate Fiction Syllabus
+title: "Climate Change | Climate Fiction Syllabus"
 ---
 
-<img src="rda/tetons_stream_veg.jpg" usemap="#image-map">
+<img src="/rda/tetons_stream_veg.jpg" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="Hydrologic Cycle" title="Hydrologic Cycle" href="https://elizabethcase.net/rda/cccf-hydrology" coords="1546,1916,1667,1678,1610,1585,1589,1535,1574,1475,1692,1489,1863,1514,2141,1642,2301,1720,2810,1742,3266,1806,3448,1927,3665,2059,4028,2123,3954,2183,3526,2109,3466,2176,3426,2141,3473,2044,3426,1955,3341,1913,3152,1934,3028,2062,3099,2119,3199,2244,3092,2354,3092,2433,2967,2668,2917,2860,2899,3020,2707,3017,2682,2889,2575,2803,2451,2679,2226,2515,1913,3013,1727,2800,1802,2365,1923,2294,2009,2294,2037,2119,1955,2062,1941,1988,1841,1945,1777,1945,1692,1934,1646,2016,1567,2037,1514,1970" shape="poly">
