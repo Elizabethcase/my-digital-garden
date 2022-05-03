@@ -2,7 +2,7 @@
 title: Syllabus Map
 ---
 
-<img src="https://elizabethcase.net/rda/cccf-map.png" usemap="#map">
+<img src="https://elizabethcase.net/rda/cccf-map-img.png" usemap="#map">
 
 
 
