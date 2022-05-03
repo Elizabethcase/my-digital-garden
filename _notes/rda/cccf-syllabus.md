@@ -6,7 +6,7 @@ Click around to begin. The image is embedded with various links. Whenever you fi
 
 In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}.
 
-<img src="https://elizabethcase.net/rda/tetons_stream_veg.jpg" width="960" height="720" usemap="#syl1">
+<img src="https://elizabethcase.net/rda/assets/tetons_stream_veg.jpg" width="960" height="720" usemap="#syl1">
 
 <map name="syl1">
   <area shape="poly" 
