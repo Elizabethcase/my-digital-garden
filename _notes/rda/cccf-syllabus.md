@@ -18,7 +18,7 @@ In case you ever feel lost, or want to jump, [here's a map](/rda/cccf_map){: .in
     alt="Geologic Cycle" 
     href="https://elizabethcase.net/rda/cccf-geology.md">
   <area shape="poly" 
-    coords="0,310, 200,321, 174,455, 355,450, 407,552, 483,571, 424,670, 476,719" 
+    coords="'16,339,71,344,148,339,188,323,215,345,197,410,167,447,147,476,212,470,288,470,347,459,348,494,371,515,387,548,400,566,410,598,407,639,409,669,444,699,458,716,462,721,,4,718,0,341,3,339"
     alt="Welcome to the Greenhouse" 
     href="https://elizabethcase.net/rda/cccf-greenhouse">
 </map> 

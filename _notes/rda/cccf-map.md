@@ -1,3 +1,6 @@
+---
+title: Syllabus Map
+---
 
 <img src="https://elizabethcase.net/rda/cccf-map.png" usemap="#map">
 
