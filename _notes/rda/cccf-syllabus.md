@@ -4,7 +4,7 @@ title: Climate Change, Climate Fiction Syllabus
 
 Click around to begin. The image is embedded with various links. Whenever you find an image, you may find links that lead you to readings, images, lessons, notes, or general topics. Enjoy exploring!
 
-In case you ever feel lost, or want to jump, [here's a map](/rda/cccf_map){: .internal-link}.
+In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}.
 
 <img src="https://elizabethcase.net/rda/tetons_stream_veg.jpg" width="960" height="720" usemap="#syl1">
 
