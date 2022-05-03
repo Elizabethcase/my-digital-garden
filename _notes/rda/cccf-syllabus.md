@@ -23,4 +23,10 @@ In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .in
     href="https://elizabethcase.net/rda/cccf-greenhouse">
 </map> 
 
+
+FEEDBACK FORM
+<img src="https://elizabethcase.net/rda/assets/qr-code.png" height="200" width="200">
+
+
 <script type="text/javascript" src="../../_plugins/imagemapresizer.js"></script>
+
