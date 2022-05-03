@@ -6,6 +6,8 @@ Click around to begin. The image is embedded with various links. Whenever you fi
 
 In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}.
 
+Link to the [self-syllabus](https://docs.google.com/document/d/1oWqqtMslZS3xa1MEJc6xqmzJb-H754OCwDQg4YWxvf4/edit#heading=h.jvvqyz9cu0dz).
+
 <img src="https://elizabethcase.net/rda/assets/tetons_stream_veg.jpg" width="960" height="720" usemap="#syl1">
 
 <map name="syl1">
