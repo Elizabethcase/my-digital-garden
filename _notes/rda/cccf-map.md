@@ -15,8 +15,7 @@ link to feedback form:
   <area shape="poly" 
     coords="399,314,421,293,482,275,509,295,563,336,556,374,531,472,517,502,504,513,480,508,451,489,406,464,359,448,370,411,383,400,425,384,435,370,432,355,420,334,400,315" 
     alt="Geologic Cycle" 
-    href="https://elizabethcase.net/rda/cccf-geology.md">
-  <area shape="poly" 
+    href="https://elizabethcase.net/rda/cccf-geology"
     coords="306,284,367,304,398,315,422,296,462,279,480,274,475,248,476,234,508,189,532,177,548,178,607,199,605,164,601,129,592,108,579,103,543,107,499,118,463,115,401,99,368,99,349,128,349,162,347,194,336,234,306,282" 
     alt="Welcome to the Greenhouse" 
     href="https://elizabethcase.net/rda/cccf-greenhouse">
