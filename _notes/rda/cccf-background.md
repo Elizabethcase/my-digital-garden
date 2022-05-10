@@ -1,5 +1,5 @@
 ---
-Title: How this came about
+title: How this came about
 ---
 
 Climate Science, Climate Fiction is a course/collaboration co-teaching the basics of climate science through the lens of climate fiction. Learners will leave the course with a broad understanding of the various components of climate science – the hydrologic cycle, impact of greenhouse gasses, ice core records, plate tectonics, ocean circulation, weather, and more – key for understanding how and what we know about the climate crisis. As modes of teaching, relating to, and deeply understanding anthropogenic climate change, the course will teach through and with climate fiction, defined broadly as myth, art, literature, corporate reports, and other modes of fictionalization. Students will learn the basic math and physics crucial for developing a sense of quantitative comfort, while also generating their own works of fiction, through (m)any of the modes we engage with in the course. This course will draw from backgrounds in physics, geology, earth science, chemistry, art history, comparative literature, archival studies, media studies, architecture, design, and more.

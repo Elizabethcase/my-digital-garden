@@ -8,7 +8,7 @@ The image below and the images on future pages have links mapped to various part
 
 In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}. All the files are [Github](https://github.com/Elizabethcase/my-digital-garden/tree/master/_notes/rda) if you prefer seeing them all at once!
 
-This project began to grow in [Shannon Mattern's Redesigning the Academy](https://redesigningacademy.wordsinspace.net/spring2022/) seminar at the New School. Here is [some more background on the goals of & inspirations for this course](cccf-background.md){: .internal-link} and [here is a model](/rda/cccf-model){: .internal-link} of what I'm hoping this website might become.
+This project began to grow in [Shannon Mattern's Redesigning the Academy](https://redesigningacademy.wordsinspace.net/spring2022/) seminar at the New School. Here is [some more background on the goals of & inspirations for this course](/rda/cccf-background){: .internal-link} and [here is a model](/rda/cccf-model){: .internal-link} of what I'm hoping this website might become.
 
 <img src="https://elizabethcase.net/rda/assets/tetons_stream_veg.jpg" width="960" height="720" usemap="#syl1">
 
