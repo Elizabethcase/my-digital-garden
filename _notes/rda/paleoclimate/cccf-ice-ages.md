@@ -1,5 +1,5 @@
 ---
-Title: "Ice Ages"
+title: "Ice Ages"
 ---
 
 Ice ages occur periodically due to a combination of continental location, atmospheric concentration of gasses, and solar input. 
