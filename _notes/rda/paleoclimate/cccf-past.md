@@ -1,12 +1,9 @@
 ---
-title: "Past: What was, what might have been"
+title: "Earth's climate cycles and climate records: what was, what might have been"
 ---
 
-Past is a window to the past. From its vantage point, the future is skewed and opaque.
+In the past two million years, Earth has gone through a series of [ice ages](/rda/paleoclimate/cccf-ice-ages){: .internal-link}.
 
-Climate records
-Plate tectonics
 
-Pair with: 
 
 In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}.
