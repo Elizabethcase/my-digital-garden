@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Greenhouse
+title: "Welcome to the Greenhouse"
 ---
 
 Earth's atmosphere works like a greenhouse, trapping heat from the sun to turn our [planet](/rda/geology/cccf-planet){: .internal-link} into the [brown-green-blue-white Earth](https://www.planetary.org/worlds/pale-blue-dot) it is today.

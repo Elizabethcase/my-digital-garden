@@ -27,10 +27,5 @@ This project began to grow in [Shannon Mattern's Redesigning the Academy](https:
     href="https://elizabethcase.net/rda/atmosphere/cccf-greenhouse">
 </map> 
 
-
-FEEDBACK FORM
-<img src="https://elizabethcase.net/rda/assets/qr-code.png" height="200" width="200">
-
-
 <script type="text/javascript" src="../../_plugins/imagemapresizer.js"></script>
 

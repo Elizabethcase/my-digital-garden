@@ -1,5 +1,5 @@
 ---
-title: Observation, or, learning how to see the world
+title: "Observation, or, learning how to see the world"
 ---
 
 A key component of the scientific process, of learning about your bioregion, and of making space in your life to see how what we learn here shows up in your day-to-day life, is the practice of **observation**.

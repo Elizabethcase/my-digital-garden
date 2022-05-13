@@ -7,3 +7,7 @@ The International Astronomical Union [defines a planet](https://www.iau.org/publ
 1. It must orbit a star
 2. It must have enough mass to generate so that its self-[gravity](/rda/maths/gravity){: .internal-link} draws it into a (nearly) spherical
 3. It has enough gravity to have cleared smaller objects out of its orbit
+
+Return to [syllabus](/rda/cccf-syllabus){: .internal-link}
+
+In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}.

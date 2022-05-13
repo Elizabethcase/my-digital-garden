@@ -1,5 +1,5 @@
 ---
-title: Growing CCCF with your input
+title: "Growing CCCF with your input"
 ---
 
 This course is intended to be explored as you might explore a natural space -- moving through, circling back, orienting yourself with landmarks, touching the soil, smelling the flowers, feeling your body, resting with in it. Its goal is to teach the basics of climate science -- but within the context we all live in: as people, with bodies and emotions, who are from somewhere and show up with varying conceptions, intuitions, limitations, and strengths. 
