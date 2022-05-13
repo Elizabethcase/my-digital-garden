@@ -1,6 +1,5 @@
 ---
 title: "The Left Hand of Darkness by Ursula K. Le Guin"
-tags: 
 ---
 
 ![Left Hand of Darkness cover](/rda/assets/lhod-cover.png)

@@ -1,6 +1,5 @@
 ---
-title: “Cloud Writing: Describing Soft Architectures of Change in the Anthropocene”
-tags: architecture, writing, journaling, clouds, weather
+title: "Cloud Writing: Describing Soft Architectures of Change in the Anthropocene"
 ---
 
 ![The Blur Building](/rda/assets/cloud-writing.png)
