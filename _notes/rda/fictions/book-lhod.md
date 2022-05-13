@@ -14,5 +14,8 @@ Much can be said of Le Guin's exploration of gender and how it impacts society. 
 
 Read chapters 16-18. As Genly and Estraven cross the ice sheet, the ice itself becomes a character. 
 - Identify 2-3 descriptions that are also character traits. For each, write one paragraph about their physical bases -- e.g. crevassing -- and one about how these physical features are used by LeGuin to build the ice into its own entity. 
-- Glaciers that no longer flow are often referred to as “dead glaciers”. So - consider - what stance is LeGuin taking by emphasizing that this ice sheet is alive? Investigate using the resources we’ve covered or other scientific papers in 500 words (or as a comic, a derivation, a video). What are the various physical definitions (size, etc) for a glacier to be considered “alive”? Cite at least four sources.
+- [Glaciers](/rda/geology/glaciers){: .internal-link} that no longer flow are often referred to as “dead glaciers”. So - consider - what stance is LeGuin taking by emphasizing that this ice sheet is alive? Investigate using the resources we’ve covered or other scientific papers in 500 words (or as a comic, a derivation, a video). What are the various physical definitions (size, etc) for a glacier to be considered “alive”? Cite at least four sources.
 
+Return to [syllabus](/rda/cccf-syllabus){: .internal-link}
+
+In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}.
