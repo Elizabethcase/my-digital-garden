@@ -2,11 +2,11 @@
 title: Welcome to Climate Change, Climate Fiction!
 ---
 
-This collaborative course is intended to help folks **learn climate science using climate fiction**. Fiction here is defined broadly. It might be a science fiction novel, a work of art, a false report, or a piece of music. **This course is exploratory**. There is no one path to it. Many pages link to others, internally and externally. You are intended to meander. I'm also hoping [you will help grow this garden](/rda/cccf-input){: .internal-link}, adding your own experiences and favorite (or most informative) fictions to this budding network of climate learning.
+This collaborative course is intended to help folks **learn climate science using climate fiction**. Fiction here is defined broadly. It might be a [science fiction novel](/rda/fictions/book-lhod){: .internal-link}, [architecture](/rda/fictions/arch-cloud writing){: .internal-link}, [a false report], or [a piece of music]. **This course is exploratory**. There is no one path to it. Many pages link to others, internally and externally. You are intended to meander. [This class is for you](/rda/functionality/cccf-audience){: .internal-link}. I'm hoping [you will help grow this garden](/rda/cccf-input){: .internal-link}, adding your own experiences and favorite (or most informative) fictions to this budding network of climate learning.
 
-The image below and the images on future pages have links mapped to various parts of the image. Whenever you find an image, you may find links that lead you to readings, images, lessons, notes, or general topics. Many links are embedded in the text as well. Enjoy exploring!
+**The image below and the images on future pages have links mapped to various parts of the image**. Whenever you find an image, you may find links that lead you to readings, images, lessons, notes, or general topics. Many links are embedded in the text as well. Enjoy exploring!
 
-In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}. All the files are [Github](https://github.com/Elizabethcase/my-digital-garden/tree/master/_notes/rda) if you prefer seeing them all at once!
+In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}. All the files are [Github](https://github.com/Elizabethcase/my-digital-garden/tree/master/_notes/rda) if you prefer seeing them all at together!
 
 This project began to grow in [Shannon Mattern's Redesigning the Academy](https://redesigningacademy.wordsinspace.net/spring2022/) seminar at the New School. Here is [some more background on the goals of & inspirations for this course](/rda/cccf-background){: .internal-link} and [here is a model](/rda/cccf-model){: .internal-link} of what I'm hoping this website might become.
 
