@@ -10,7 +10,7 @@ In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .in
 
 This project began to grow in [Shannon Mattern's Redesigning the Academy](https://redesigningacademy.wordsinspace.net/spring2022/) seminar at the New School. Here is [some more background on the goals of & inspirations for this course](/rda/cccf-background){: .internal-link} and [here is a model](/rda/cccf-model){: .internal-link} of what I'm hoping this website might become.
 
-<img src="https://elizabethcase.net/rda/assets/tetons_stream_veg.jpg" width="960" height="720" usemap="#syl1">
+<img src="https://elizabethcase.net/rda/assets/tetons_stream_veg_arrow.png" width="960" height="720" usemap="#syl1">
 
 <map name="syl1">
   <area shape="poly" 
