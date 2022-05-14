@@ -15,19 +15,27 @@ If I had all the time & coding ability in the world, here’s a concept for the 
 
 | Science subject | Fiction |
 | --- | --- |
-| Weather | Cloud Writing |
+| Weather | [Cloud Writing](/rda/fictions/arch-cloud writing){: .internal-link} |
 | Climate | Dugongs in Ryukyu myths |
-| Ice ages | Left Hand of Darkness |
-| The Greenhouse Effect | Terraforming Mars Boardgame |
+| Ice ages | [Left Hand of Darkness](/rda/fictions/book-lhod){: .internal-link} |
+| The Greenhouse Effect | [Terraforming Mars](/rda/fictions/boardgame-tfmars){: .internal-link} |
 | The Carbon Cycle | Exxon Climate Report |
-| The Hydrologic Cycle | mathur/da cunha flood architecture |
+| Extreme Weather | Mathur/Da Cunha architecture|
 | Sea level rise | Venetian Paintings |
 | Geologic processes | Ilana Halperin’s volcano |
 | Climate change | Parable of the Sower |
-|  |  |
+| The Hydrologic Cycle| The Mississippi River Basin Model|
 
-
-
+1. Smailbegović A. (2015). “Cloud Writing: Describing Soft Architectures of Change in the Anthropocene.“ Art in the Anthropocene: Encounters Among Aesthetics, Politics, Environments and Epistemologies. *Open Humanities Press*. ISBN: 9781785420054. 
+2. Nakahira S. (2022). “The Last Okinawan Dugongs.” *The Nib*. https://thenib.com/the-last-okinawan-dugongs/
+3. Le Guin UK. (1969). “Left Hand of Darkness.” *Ace Books*, New York City. ISBN: 9780441478125
+4. Fryxelius J and Fryxelius I. (2016). “Terraforming Mars.” *FryxGames*, Sweden. https://boardgamegeek.com/boardgame/167791/terraforming-mars/credits
+5. Banerjee, Neela, Lisa Song, and David Hasemyer. (2015). “Exxon’s Own Research Confirmed Fossil Fuels’ Role in Global Warming Decades Ago.” _Inside Climate News_. [https://insideclimatenews.org/news/16092015/exxons-own-research-confirmed-fossil-fuels-role-in-global-warming/](https://insideclimatenews.org/news/16092015/exxons-own-research-confirmed-fossil-fuels-role-in-global-warming/).
+6. Mathur A and da Cunha D. (2009). “SOAK.” National Gallery of Modern Art. Mumbai. 
+7. Camuffo, Dario. (2010). “The Sea Level in Venice according to Verones, Canalotto, and Bellotto’s Paintings.” _Revue dhistoire moderne contemporaine_ 573 (3): 92–110. [https://doi.org/10.3917/rhmc.573.0092](https://doi.org/10.3917/rhmc.573.0092).
+8. Halperin I. (2006). “Towards Helprin Land”. http://www.ilanahalperin.com/new/greenland.html
+9. Butler, Octavia E. (1993). Parable of the Sower. Grand Central Publishing.
+10. Cheramie, Kristi. (2011). “The Scale of Nature: Modeling the Mississippi River.” _Places Journal_. [https://doi.org/10.22269/110321](https://doi.org/10.22269/110321).
 
 # Simultaneous connections 
 
@@ -36,7 +44,7 @@ I’ve been interested in using zines as a) modes of communicating climate scien
 
 ![Climate Zines](/rda/assets/climate_zines.png)
 ## Connection 2
-My work on this project led directly to a collaboration with Amelia Greenhall from Anenome. She will print the first versions of a “Climate Emergency Reading Recs” zine today (Friday, May 13). We catalogued more than 120 books! I’ve included the cover and some of the excerpts I wrote for it below.
+My work on this project led directly to a collaboration with Amelia Greenhall from Anenome. She will print the first versions of a “[Climate Emergency Reading Recs](https://shop.anemone.studio/product/climate-emergency-reading-recs)” zine today (Friday, May 13)! We catalogued more than 120 books! I’ve included the cover and some of the excerpts I wrote for it below.
 
 ![Cover for zine](/rda/assets/climate_emerg_cover.jpeg)
 ![climate_emr_showing.png](/rda/assets/climate_emr_showing.png)
