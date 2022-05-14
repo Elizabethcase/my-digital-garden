@@ -4,9 +4,6 @@ title: Syllabus Map
 
 <img src="https://elizabethcase.net/rda/assets/cccf-map-img-bg.png" width="700px" height="623px" usemap="#map">
 
-link to feedback form:
-
-
 <map name="map">
   <area shape="poly" 
     coords="157,170, 99,151, 69,148, 42,160, 30,178, 14,224, 4,280, 17,344, 53,393, 92,417, 148,405, 174,399, 256,394, 257,371, 279,319, 304,286, 334,236, 304,238, 242,245, 180,244, 158,232, 150,209, 151,190, 156,170" 

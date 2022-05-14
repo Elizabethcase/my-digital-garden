@@ -2,7 +2,7 @@
 title: Terraforming Mars
 ---
 
-<img src=“https://elizabethcase.net/rda/assets/Terraforming_Mars_board_game_box_cover.jpg”>
+![Terraforming Mars Box Cover](https://elizabethcase.net/rda/assets/Terraforming_Mars_board_game_box_cover.jpg)
 
 In Terraforming Mars, players compete as corporations to contribute the most to the habitability of the red planet over the course of generations. Technologies, ecologies, rare minerals, and other resources are used to plant forests, create oceans, and raise the atmospheric oxygen concentration to 14% and the temperature to +8 °C. 
 

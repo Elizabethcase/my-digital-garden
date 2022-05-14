@@ -11,3 +11,7 @@ The climate crisis is global and beyond human. Readings, artwork, and activities
 
 This is explicitly intended to be a collaboration of people across a variety of backgrounds, interests, and ways of spending their time (e.g. disciplines). A roomful of scientists won’t do; neither will a roomful of artists, even if within those groups there is substantial and unquantifiable range of diversity. If you’re interested in taking this course, please reach out to Elizabeth at ehc2150[@]columbia.edu.
 
+Return to [syllabus](/rda/cccf-syllabus){: .internal-link}
+
+In case you ever feel lost, or want to jump, [here's a map](/rda/cccf-map){: .internal-link}.
+
